@@ -1,0 +1,58 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    color: rgb(186, 189, 18);
+    text-decoration: none;
+    font-size: large;
+    list-style-type: none;
+    background-image: 25.png;
+}
+.zizo {
+    background-color: rgb(83, 80, 80);
+    width: auto;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+    position: sticky;
+    
+}
+.zizo :hover {
+    background-color: red ; 
+}
+.hjjj{
+    background-color: rgb(122, 37, 37);
+    display: block;
+    float: right;
+    direction: rtl;
+    height: 525px;
+    width: 200px;
+    
+}
+.hjjj:hover a.g {
+    background-color: darkgreen;
+}
+.hjjj:hover a.f {
+    background-color: blue;
+}
+.hjjj:hover a.v {
+    background-color: darkgoldenrod;
+}
+.hjjj:hover a.d {
+    background-color: blueviolet;
+}
+.gta button{
+    background-color: rgb(2, 10, 10);
+    justify-content: space-between;
+    margin-left: 35px;
+}
+ .gth {
+margin-top: 100px;
+}
+.nnn{
+    width: 50%;
+}
+.gggggj img{
+    width: 85%;
+    height: 500px;
+}
